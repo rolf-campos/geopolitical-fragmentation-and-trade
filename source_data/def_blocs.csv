@@ -1,0 +1,152 @@
+iso;bloc;vote;min_MATR;max_MATR;MATR
+ALB;Western;Against Russia;9;13;9
+ARG;Western;Against Russia;8;16;16
+ATG;Western;Against Russia;11;13;13
+AUS;Western;Against Russia;4;7;5
+AUT;Western;Against Russia;5;6;5
+BEL;Western;Against Russia;4;13;4
+BGR;Western;Against Russia;10;15;10
+BHS;Western;Against Russia;13;14;14
+BIH;Western;Against Russia;4;16;16
+CAN;Western;Against Russia;3;7;7
+CHE;Western;Against Russia;4;5;5
+CHL;Western;Against Russia;4;15;5
+CIV;Western;Against Russia;14;17;16
+COL;Western;Against Russia;10;15;11
+CRI;Western;Against Russia;8;14;9
+CZE;Western;Against Russia;6;12;7
+DEU;Western;Against Russia;4;6;4
+DMA;Western;Against Russia;13;17;13
+DNK;Western;Against Russia;2;5;4
+DOM;Western;Against Russia;6;17;6
+ECU;Western;Against Russia;8;15;9
+ESP;Western;Against Russia;4;9;5
+EST;Western;Against Russia;6;11;7
+FIN;Western;Against Russia;3;13;3
+FJI;Western;Against Russia;15;16;16
+FRA;Western;Against Russia;5;12;6
+GBR;Western;Against Russia;3;5;5
+GEO;Western;Against Russia;3;11;4
+GRC;Western;Against Russia;3;12;5
+GTM;Western;Against Russia;5;13;5
+HND;Western;Against Russia;4;14;9
+HRV;Western;Against Russia;9;14;9
+HTI;Western;Against Russia;3;9;4
+HUN;Western;Against Russia;5;15;5
+IRL;Western;Against Russia;4;14;4
+ISR;Western;Against Russia;2;17;3
+ITA;Western;Against Russia;5;14;5
+JAM;Western;Against Russia;5;17;7
+JPN;Western;Against Russia;4;7;7
+KIR;Western;Against Russia;2;3;3
+KOR;Western;Against Russia;6;11;6
+LBR;Western;Against Russia;7;13;8
+LTU;Western;Against Russia;5;8;6
+LVA;Western;Against Russia;4;7;6
+MDA;Western;Against Russia;12;16;13
+MMR;Western;Against Russia;18;21;18
+MWI;Western;Against Russia;10;17;14
+NLD;Western;Against Russia;4;6;4
+NOR;Western;Against Russia;5;10;7
+NZL;Western;Against Russia;4;6;4
+PAN;Western;Against Russia;2;6;4
+PER;Western;Against Russia;3;13;4
+PHL;Western;Against Russia;10;12;12
+PLW;Western;Against Russia;4;6;6
+PNG;Western;Against Russia;12;17;16
+POL;Western;Against Russia;6;14;6
+PRT;Western;Against Russia;3;15;5
+PRY;Western;Against Russia;6;12;7
+ROU;Western;Against Russia;6;16;6
+SLE;Western;Against Russia;11;15;12
+SVK;Western;Against Russia;5;15;6
+SVN;Western;Against Russia;6;12;7
+SWE;Western;Against Russia;4;6;6
+TCD;Western;Against Russia;12;17;14
+TLS;Western;Against Russia;3;4;4
+TON;Western;Against Russia;6;12;12
+TUR;Western;Against Russia;10;14;12
+TUV;Western;Against Russia;2;2;2
+UKR;Western;Against Russia;9;18;16
+URY;Western;Against Russia;7;9;9
+USA;Western;Against Russia;4;5;4
+BDI;Eastern;With Russia;12;17;12
+BLR;Eastern;With Russia;13;19;13
+BOL;Eastern;With Russia;5;11;6
+CAF;Eastern;With Russia;14;16;14
+CHN;Eastern;With Russia;14;19;16
+COG;Eastern;With Russia;13;16;14
+DZA;Eastern;With Russia;12;14;13
+ETH;Eastern;With Russia;15;17;16
+GAB;Eastern;With Russia;13;15;15
+HKG;Eastern;With Russia;3;4;3
+KAZ;Eastern;With Russia;11;18;11
+KGZ;Eastern;With Russia;5;11;10
+LAO;Eastern;With Russia;13;16;14
+MLI;Eastern;With Russia;11;14;14
+NIC;Eastern;With Russia;6;13;8
+RUS;Eastern;With Russia;12;19;13
+TJK;Eastern;With Russia;12;15;14
+UZB;Eastern;With Russia;13;19;14
+ZWE;Eastern;With Russia;10;19;12
+AGO;Neutral;Abstention;16;18;16
+ARE;Neutral;Abstention;2;5;5
+BGD;Neutral;Abstention;17;18;18
+BHR;Neutral;Abstention;7;9;8
+BLZ;Neutral;Abstention;13;16;15
+BRA;Neutral;Abstention;12;19;15
+BRB;Neutral;Abstention;15;16;15
+BRN;Neutral;Abstention;5;8;7
+BTN;Neutral;Abstention;12;17;17
+BWA;Neutral;Abstention;5;13;5
+CMR;Neutral;Abstention;14;17;14
+EGY;Neutral;Abstention;10;19;13
+GHA;Neutral;Abstention;12;16;13
+GMB;Neutral;Abstention;3;9;7
+GNB;Neutral;Abstention;14;18;17
+IDN;Neutral;Abstention;11;13;13
+IND;Neutral;Abstention;18;19;18
+IRQ;Neutral;Abstention;10;16;11
+KEN;Neutral;Abstention;6;14;6
+KHM;Neutral;Abstention;12;13;12
+KWT;Neutral;Abstention;3;5;5
+LKA;Neutral;Abstention;11;17;15
+LSO;Neutral;Abstention;13;16;16
+MDG;Neutral;Abstention;10;16;12
+MDV;Neutral;Abstention;5;8;7
+MEX;Neutral;Abstention;6;14;6
+MNG;Neutral;Abstention;8;12;9
+MOZ;Neutral;Abstention;13;16;14
+MYS;Neutral;Abstention;13;16;13
+NAM;Neutral;Abstention;14;16;15
+NER;Neutral;Abstention;14;18;17
+NGA;Neutral;Abstention;13;16;14
+NPL;Neutral;Abstention;15;18;18
+OMN;Neutral;Abstention;5;6;6
+PAK;Neutral;Abstention;14;19;16
+QAT;Neutral;Abstention;5;6;5
+SAU;Neutral;Abstention;3;6;6
+SDN;Neutral;Abstention;8;17;11
+SEN;Neutral;Abstention;14;16;15
+SGP;Neutral;Abstention;6;7;6
+SLV;Neutral;Abstention;5;15;6
+TGO;Neutral;Abstention;14;17;16
+THA;Neutral;Abstention;11;14;11
+TUN;Neutral;Abstention;15;19;16
+TZA;Neutral;Abstention;12;18;14
+UGA;Neutral;Abstention;5;18;6
+VUT;Neutral;Abstention;4;6;6
+YEM;Neutral;Abstention;7;14;9
+ZAF;Neutral;Abstention;11;16;16
+ARM;Neutral;Non-voting;6;10;8
+AZE;Neutral;Non-voting;10;15;15
+BEN;Neutral;Non-voting;13;16;15
+BFA;Neutral;Non-voting;14;17;16
+GIN;Neutral;Non-voting;17;18;17
+LBN;Neutral;Non-voting;5;8;8
+MAR;Neutral;Non-voting;15;17;16
+MRT;Neutral;Non-voting;13;18;13
+RWA;Neutral;Non-voting;7;16;7
+SLB;Neutral;Non-voting;12;14;14
+VEN;Neutral;Non-voting;7;17;16
+ZMB;Neutral;Non-voting;6;15;9
